@@ -1,9 +1,7 @@
 package com.harsh.ecom.controller;
 
-import com.harsh.ecom.dto.AddressDTO;
 import com.harsh.ecom.dto.UserRequest;
 import com.harsh.ecom.dto.UserResponse;
-import com.harsh.ecom.model.User;
 import com.harsh.ecom.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
